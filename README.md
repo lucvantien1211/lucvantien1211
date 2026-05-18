@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://github.com/lucvantien1211/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"> GitHub</a>
+<a href="https://github.com/lucvantien1211/"><img src="./assets/github.png" width="20"> GitHub</a>
 
 <a href="https://huggingface.co/lucvantien1211"><img src="https://cdn.simpleicons.org/huggingface" width="20"> HuggingFace</a>
 
